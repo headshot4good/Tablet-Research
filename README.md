@@ -205,7 +205,7 @@ REMEMBER FOR STUDIO GRAPHIC MONITORS:
 	[ diagonal lines are not straight, but rather wiggly, also may refer to straight lines instead of curved ones ]
 * RESPONSE TIME
 	[ 15-25ms, more than that is really laggy, the time it takes for the monitor to send input from pen to computer, and get the response from the graphic card so that it displays pixels ]
-* RESPONSE RATE
+* REPORT RATE
 	[ 233-266 rps, the number of recorded points in a second while the Stylus is moving ]
 * COLOR ACCURACY 
 	[ > 90% Adobe RGB for accurate colors, otherwise prints could turn bad ]
