@@ -93,8 +93,8 @@ On the GO Monitors: [ 8K Pressure, Battery Free Stylus, FHD = 1920*1080 Monitor,
 	- $448.88 with Tax included so be wary that you have to pay tax and shipping for Huion products
 
 
-Studio / Desktop Full Experience:
-------------------------
+Studio / Desktop Full Experience: [ 8K Pressure, FHD = 1920*1080 Monitor, 75% Adobe RGB ]
+---------------------------------
 * 999.95$ ~ Wacom Cintiq Pro 13 [ https://www.wacom.com/en-us/products/pen-displays/wacom-cintiq-pro-13#Specifications ]
 	~ Unknown Size
 	+ 1920 x 1080 Resolution
@@ -172,13 +172,13 @@ Studio / Desktop Full Experience:
 
 
 
-In my books the for a studio / workspace I'd check the following [ > 90% Adobe RGB, so colors will be accurate ]
-	+ XP-Pen Artist Display 16 Pro
-	+ Artisul D16
+* In my books the for a studio / workspace I'd check the following [ > 90% Adobe RGB, so colors will be accurate ]
+	* XP-Pen Artist Display 16 Pro [ Reachargeable stylus ]
+	* Artisul D16
 
-An Important note for Graphic Monitors is that you will have to see reviews about them and check Parallax and Jitter reviews.
-All Graphic Monitors have Parallax and Jitter, but try to find the one that has the least.
-Also most Graphic Monitors have a 15-25ms Response Rate. Check that so that you experience less LAGG while drawing.
+* An Important note for Graphic Monitors is that you will have to see reviews about them and check Parallax and Jitter reviews.
+* All Graphic Monitors have Parallax and Jitter, but try to find the one that has the least.
+* Also most Graphic Monitors have a 15-25ms Response Rate. Check that so that you experience less LAGG while drawing.
 
 
 REMEMBER FOR STUDIO GRAPHIC MONITORS:
@@ -194,9 +194,9 @@ REMEMBER FOR STUDIO GRAPHIC MONITORS:
 * COLOR ACCURACY 
 	[ > 90% Adobe RGB for accurate colors, otherwise prints could turn bad ]
 
-Also express keys may not be necessary if you have the USB port to carry Macro Keyboard and mouse for scrollwheel, though its more comfortable to have it all in one than carry a lot of accessories.
-Pen Holder is a fancy accessory but some artists tend to break / loose pens so it may help you stay organized.
-I reffer to Tilt as being a fancy feature because I've never used it. Some experienced artists can use it to speed up their work by using heavy wight stylized strokes. But for anything else I've never heard people say its a required feature.
+* Also express keys may not be necessary if you have the USB port to carry Macro Keyboard and mouse for scrollwheel, though its more comfortable to have it all in one than carry a lot of accessories.
+* Pen Holder is a fancy accessory but some artists tend to break / loose pens so it may help you stay organized.
+* I reffer to Tilt as being a fancy feature because I've never used it. Some experienced artists can use it to speed up their work by using heavy wight stylized strokes. But for anything else I've never heard people say its a required feature.
 
 
-HUION LOOSES a lot of customers because for their products you have to pay customs tax and shipping. This is mostly because they don't have warehouses around the world like other companies do.
+* HUION LOOSES a lot of customers because for their products you have to pay customs tax and shipping. This is mostly because they don't have warehouses around the world like other companies do.
