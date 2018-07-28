@@ -147,7 +147,7 @@ Studio / Desktop Full Experience: [ 8K Pressure, FHD = 1920*1080 Monitor, 75% Ad
 	- ~No Fancy Tilt Recognition
 
 * 450$ - ~Artisul D16 [ https://us-shop.artisul.com/shop-all/artisul_lcd/d16/ ]
-	- ~424.2 x 262 x 16.5 mm Size
+	- ~424.2 x 262 x 16.5 mm Size [ would not fit my bag ]
 	+ +1920 x 1080 Resolution
 	- ~19ms Response Time
 	+ +94% Adobe RGB
@@ -174,8 +174,8 @@ Studio / Desktop Full Experience: [ 8K Pressure, FHD = 1920*1080 Monitor, 75% Ad
 
 
 * In my books the for a studio / workspace I'd check the following [ > 90% Adobe RGB, so colors will be accurate ]
-	* XP-Pen Artist Display 16 Pro [ Reachargeable stylus ]
-	* Artisul D16
+	* Artisul D16 [ hate: Pen Bag ]
+	* XP-Pen Artist Display 16 Pro [ hate: Reachargeable stylus ]
 
 * An Important note for Graphic Monitors is that you will have to see reviews about them and check Parallax and Jitter reviews.
 * All Graphic Monitors have Parallax and Jitter, but try to find the one that has the least.
