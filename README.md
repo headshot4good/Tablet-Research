@@ -246,6 +246,8 @@ REMEMBER FOR STUDIO GRAPHIC MONITORS:
 
 * HUION LOOSES a lot of customers because for their products you have to pay customs tax and shipping. This is mostly because they don't have warehouses around the world like other companies do.
 
+* WACOM TABLETS > 1000$ have also touch screen and multi gesture support, so you may use pinch to zoom and rotate, however there may be software that does not recognise gestures like in my case Krita.
+
 
 MASTER BUILD
 ============
