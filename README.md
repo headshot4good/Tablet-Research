@@ -135,6 +135,21 @@ Studio / Desktop Full Experience: [ 8K Pressure, FHD = 1920*1080 Monitor ]
 	
 	* REVIEW [ https://www.youtube.com/watch?v=OJx0vY-VdN8 ] 
 
+* 799$ - ~Wacom Cintiq HD 13 [ https://us-store.wacom.com/Product/cintiq-13hd-interactive-pen-display?sku=DTK1300#/undefined1 ]
+	- ~375 ｘ 248 ｘ 14mm 14.75 x 9.75 x 0.5 in Size
+	+ +1920 x 1080 Resolution
+	- -25ms Response Time [ kinda laggy ]
+	- -75% Adobe RGB [ kinda bad ]
+	- -2048 Pressule Levels [ pen and eraser ]
+	+ +Battery Free Stylus
+	+ +4 Express Keys
+	+ +Scroll Wheel
+	+ +Kickstand with 3 angles
+	+ +Fancy Tilt Recognition
+
+	* REVIEW [ https://www.youtube.com/watch?v=ezkSn17vavQ ]
+
+
 * 599$ - ~XP-PEN Artist Display 22E Pro [ https://www.storexppen.com/buy/61.html ]
 	=== Carefull its a ultra wide screen ratio ===
 	- ~567 x 326 x 30 mm Size
