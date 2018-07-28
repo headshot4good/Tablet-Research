@@ -197,7 +197,7 @@ Studio / Desktop Full Experience: [ 8K Pressure, FHD = 1920*1080 Monitor, 75% Ad
 REMEMBER FOR STUDIO GRAPHIC MONITORS:
 -------------------------------------
 * PARALLAX 
-	[ mostly due to the fact the reading layer is not directly beneath the glass ]
+	[ the fact that cursor will appear not underneath the pen tip, mostly due to the fact the reading layer is not directly beneath the glass ]
 * JITTER 
 	[ diagonal lines are not straight, but rather wiggly, also may refer to straight lines instead of curved ones ]
 * RESPONSE TIME
