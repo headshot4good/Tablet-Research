@@ -227,6 +227,8 @@ MASTER BUILD
 If you have the cash to burn then i'd go for 
 * MSI GS65 Stealth [ 144hz 7ms screen ]  [ https://www.amazon.com/MSI-GS65-Stealth-THIN-051-i7-8750H/dp/B07BBJKCYG?th=1 ]
 	+ do a LIQUID METAL THERMAL Solution at a computer shop like [ https://www.youtube.com/watch?v=hdTsra-uLBI ]
-	++ bear in mind that liquid metal will corode alluminiumm so make sure to take the alluminium cover on the SOC
+	++ bear in mind that liquid metal will corode alluminiumm so make sure to take the alluminium cover off the SOC
+	++ study the process more if you go down this path
 	+ add 16 GB RAM [ https://www.youtube.com/watch?v=RISGYh5AjB4 ]
+	++ will have to buy 2 X 16 GB RAM chips, as by default it uses 2 X 8GB RAM chips
 * Artisul D16 [ hate: Pen Bag ]
