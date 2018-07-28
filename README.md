@@ -18,6 +18,15 @@ INDEX:
 - -+good point
 - --bad point
 
+Student / SKETCHER: [ Maximum portability and quick to start drawing ]
+-------------------
+* 290.50$ + $106.06 - ~Acer Spin 1, 11.6" Full HD Touch, Pentium N4200
+	=== GET THE PENTIUM N4200 which is quadcore instead of the other one which is dualcore ===
+	* 4 Cores @ 1.1Ghz + Turbo @ 2.5Ghz
+	* 1920 x 1080 resolution
+	* 4GB RAM
+	* 64GB Flash Memory
+	
 
 
 BUDGET / On the GO: [ 8K Pressure, Battery Free Stylus ]
