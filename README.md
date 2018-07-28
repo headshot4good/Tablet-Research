@@ -113,8 +113,8 @@ Studio / Desktop Full Experience: [ 8K Pressure, FHD = 1920*1080 Monitor, 75% Ad
 	- -87% Adobe RGB
 	+ +8192 Pressure Levels [ pen and eraser ]
 	+ +Battery Free Stylus
-	- No Express Keys
-	- No Scroll Wheel
+	- -No Express Keys
+	- -No Scroll Wheel
 	+ +Pen Holder on top of tablet and for table
 	- -KickStand built in, no angle variation
 	+ +Fancy Tilt Recognition
