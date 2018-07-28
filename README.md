@@ -53,9 +53,8 @@ BUDGET / On the GO: [ 8K Pressure, Battery Free Stylus ]
 
 On the GO Monitors: [ 8K Pressure, Battery Free Stylus, FHD = 1920*1080 Monitor, 75% Adobe RGB ]
 -------------------
-* 350$ ~ Artisul D13 S [ https://us-shop.artisul.com/shop-all/artisul_lcd/d13sx/ ]
+* 350$ ~ Artisul D13 S [ https://us-shop.artisul.com/shop-all/artisul_lcd/artisul-d13-s-combo/]
  	=== Careful the old version D13 has only 2K pressure levels ===
- 	=== Avoid the prepackage and get the stand sepparately ===
  	~ 389.0 x 250.7 x 14 mm
  	+ 1920 x 1080 Resolution
  	+ 19ms Response Time
@@ -65,7 +64,7 @@ On the GO Monitors: [ 8K Pressure, Battery Free Stylus, FHD = 1920*1080 Monitor,
  	+ 6 Express Keys
  	+ Scroll Wheel
  	- No Pen Holder, Pen bag included
- 	- No KickStand, but can be bought sepparately + 60$
+ 	+ KickStand with angle variation
  	~ No Fancy Tilt Recognition
  	
 * 400$ ~ Parblo C13 [ https://www.parblo.com/products/coast13-1 ]
