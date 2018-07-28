@@ -1,15 +1,14 @@
 My Research on Tablets and Monitors for Drawing:
 ================================================
 
-I was mostly interested in the tablets to have high specs, be cheap as possible and prefferably have a scroll wheel so that I can rotate the drawings when using them.
-For the on the go options I prioritized the 13Inch variants to the 16inch ones so that they can be carried with smaller laptops.
-If you have a 15.6 Inch Laptop then I'd go with the 16inch correspondent. But be carefull to check dimensions before purchase. And check the fact you have a large enough bag to hold both the Laptop and the Tablet without squishing them together.
-In my case the 15.6 Lenovo Y50-70 [ average laptop dimensions ] has the following dimensions:
+* I was mostly interested in the tablets to have high specs, be cheap as possible and prefferably have a scroll wheel so that I can rotate the drawings when using them.
+* For the on the go options I prioritized the 13Inch variants to the 16inch ones so that they can be carried with smaller laptops.
+* If you have a 15.6 Inch Laptop then I'd go with the 16inch correspondent. But be carefull to check dimensions before purchase. And check the fact you have a large enough bag to hold both the Laptop and the Tablet without squishing them together.
+* In my case the 15.6 Lenovo Y50-70 [ average laptop dimensions ] has the following dimensions:
+	- 391.16 x 266.7 x 19.05 mm
+	- 15.4   x 10.5  x 0.75 inches
 
-391.16 x 266.7 x 19.05 mm
-15.4   x 10.5  x 0.75 inches
-
-I included Adobe RGB for workspace stations because color accuracy is mandatory.
+* I included Adobe RGB for workspace stations because color accuracy is mandatory.
 
 
 
