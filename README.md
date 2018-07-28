@@ -44,7 +44,7 @@ BUDGET / On the GO: [ 8K Pressure, Battery Free Stylus ]
 	+ +Battery Free Stylus
 	+ +8 Express Keys
 	- -Scroll Wheel = -2 Express Keys
-	- -No Pen Holder
+	+ +Pen Holder
 	+ +Fancy Tilt Recognition
 	- -may be more than 79$ due to shipping costs and tax
 
