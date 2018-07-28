@@ -262,4 +262,4 @@ If you have the cash to burn then i'd go for
 
 FOR MORE CHEAP ALTERNATIVES FOR A STUDIO
 ----------------------------------------
-https://www.youtube.com/watch?v=-KIYjcncFD0
+* https://www.youtube.com/watch?v=-KIYjcncFD0
