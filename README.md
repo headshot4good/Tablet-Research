@@ -124,7 +124,7 @@ Studio / Desktop Full Experience: [ 8K Pressure, FHD = 1920*1080 Monitor ]
 	- ~Unknown Size
 	+ +1920 x 1080 Resolution
 	- -30ms Response Time [ THIS WILL APPEAR TO LAGG, TRUST ME I PLAYED FPS GAMES FOR 8 YEARS ] 
-	- -87% Adobe RGB
+	- -87% Adobe RGB [ kinda bad ]
 	+ +8192 Pressure Levels [ pen and eraser ]
 	+ +Battery Free Stylus
 	- -No Express Keys
@@ -155,7 +155,7 @@ Studio / Desktop Full Experience: [ 8K Pressure, FHD = 1920*1080 Monitor ]
 	- ~567 x 326 x 30 mm Size
 	+ +1920 x 1080 Resolution
 	- ~14ms Response Time
-	- -77%-82% Adobe RGB
+	- -77%-82% Adobe RGB [ kinda bad ]
 	+ +8192 Pressure Levels
 	- -Rechargeable Stylus [ 2 included ]
 	+ +16 Express Keys
@@ -171,7 +171,7 @@ Studio / Desktop Full Experience: [ 8K Pressure, FHD = 1920*1080 Monitor ]
 	- ~517 x 321 x 30 mm Size
 	+ +1920 x 1080 Resolution
 	+ +14ms Response Time
-	- -77%-82% Adobe RGB
+	- -77%-82% Adobe RGB [ kinda bad ]
 	+ +8192 Pressure Levels
 	- -Rechargeable Stylus [ 2 included ]
 	- -No Express Keys
@@ -216,7 +216,7 @@ Studio / Desktop Full Experience: [ 8K Pressure, FHD = 1920*1080 Monitor ]
 	- ~443 x 280 x 12.6 mm Size
 	+ +1920 x 1080 Resolution
 	- ? unknown Response Time
-	- -75% Adobe RGB
+	- -75% Adobe RGB [ kinda bad ]
 	+ +8192 Pressure Levels
 	+ +Battery Free Stylus
 	+ +6 Express Keys
