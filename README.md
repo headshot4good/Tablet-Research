@@ -20,6 +20,9 @@ INDEX:
 
 Student / SKETCHER: [ Maximum portability and quick to start drawing ]
 -------------------
+
+=== NOT RECOMMENDED FOR ACTUAL WORK, OTHER THAN WRITING AND SKETCHING ===
+
 * 399.99$ - ~Acer Spin 1, 11.6" Full HD Touch, Pentium N4200
 	=== GET THE PENTIUM N4200 which is quadcore instead of the other one which is dualcore ===
 	* 4 Cores @ 1.1Ghz + Turbo @ 2.5Ghz
