@@ -14,9 +14,9 @@ My Research on Tablets and Monitors for Drawing:
 
 INDEX:
 ------
-- ~ point
-- + good point
-- - bad point
+- ~point
+- +good point
+- -bad point
 
 
 
