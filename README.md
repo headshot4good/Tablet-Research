@@ -212,7 +212,7 @@ REMEMBER FOR STUDIO GRAPHIC MONITORS:
 
 * Also express keys may not be necessary if you have the USB port to carry Macro Keyboard and mouse for scrollwheel, though its more comfortable to have it all in one than carry a lot of accessories.
 * Pen Holder is a fancy accessory but some artists tend to break / loose pens so it may help you stay organized.
-* I reffer to Tilt as being a fancy feature because I've never used it. Some experienced artists can use it to speed up their work by using heavy wight stylized strokes. But for anything else I've never heard people say its a required feature.
+* I reffer to Tilt as being a fancy feature because I've never used it. Some experienced artists can use it to speed up their work by using heavy weight stylized strokes. But for anything else I've never heard people say its a required feature.
 
 * For KickStand with angle variation you can check this [ https://us-shop.artisul.com/shop-all/artisul_lcd/stand-051/ ] or look for tablet kickstands online
 
