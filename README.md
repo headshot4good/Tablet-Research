@@ -104,7 +104,7 @@ On the GO Monitors: [ 8K Pressure, Battery Free Stylus, FHD = 1920*1080 Monitor,
 	- -No Fancy Tilt Recognition
 
 
-Studio / Desktop Full Experience: [ 8K Pressure, FHD = 1920*1080 Monitor, 75% Adobe RGB ]
+Studio / Desktop Full Experience: [ 8K Pressure, FHD = 1920*1080 Monitor ]
 ---------------------------------
 * 999.95$ - ~Wacom Cintiq Pro 13 [ https://www.wacom.com/en-us/products/pen-displays/wacom-cintiq-pro-13#Specifications ]
 	- ~Unknown Size
