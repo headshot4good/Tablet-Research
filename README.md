@@ -1,5 +1,3 @@
-# Tablet-Research
-
 My Research on Tablets and Monitors for Drawing:
 ================================================
 
@@ -93,7 +91,7 @@ On the GO Monitors: [ 8K Pressure, Battery Free Stylus, FHD = 1920*1080 Monitor,
 
 
 
-Desktop Full Experience:
+Studio / Desktop Full Experience:
 ------------------------
 * 999.95$ ~ Wacom Cintiq Pro 13 [ https://www.wacom.com/en-us/products/pen-displays/wacom-cintiq-pro-13#Specifications ]
 	~ Unknown Size
