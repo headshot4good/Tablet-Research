@@ -59,18 +59,20 @@ On the GO Monitors: [ 8K Pressure, Battery Free Stylus, FHD = 1920*1080 Monitor,
  	~ 389.0 x 250.7 x 14 mm
  	+ 1920 x 1080 Resolution
  	+ 19ms Response Time
+ 	- 75% Adobe RGB
  	+ 8192 Pressure Levels
  	+ Battery Free Stylus
  	+ 6 Express Keys
  	+ Scroll Wheel
  	- No Pen Holder, Pen bag included
- 	~ No KickStand, but can be bought sepparately + 60$
+ 	- No KickStand, but can be bought sepparately + 60$
  	~ No Fancy Tilt Recognition
  	
 * 400$ ~ Parblo C13 [ https://www.parblo.com/products/coast13-1 ]
 	~ 380 x 240 x 14 mm / 15 x 9 x  0.6 inch
 	+ 1920 x 1080 Resolution
 	~ ? Unknown Response Time
+	- 72% NTSC [ there is no comparison with other products because NTSC is a different color accuracy scheme, However NTSC is wider than Adobe RGB so we can assume its 75% Adobe RGB or more ]
 	+ Battery Free Stylus
 	+ 8 Express Keys
 	+ Scroll Wheel
@@ -81,14 +83,15 @@ On the GO Monitors: [ 8K Pressure, Battery Free Stylus, FHD = 1920*1080 Monitor,
 * 300$ ~ Huion KAMVAS PRO 13 [ https://www.huiontablet.com/all-products/presale-item/kamvas-pro-13.html ]
 	~ 388 x 219 x 11 mm Size
 	+ 1920 x 1080 Resolution
-	~ 25ms Response Time	
+	~ 25ms Response Time
+	- ? Unknown RGB accuracy
 	+ Battery Free Stylus
 	+ 4 Express Keys
 	- No Scroll Wheel = -2 Express Keys
 	+ Pen Holder
 	- KickStand with angle variation supposedly included [ there is only one picture which shows it ]
 	~ No Fancy Tilt Recognition
-
+	- $448.88 with Tax included so be wary that you have to pay tax and shipping for Huion products
 
 
 Studio / Desktop Full Experience:
@@ -97,9 +100,9 @@ Studio / Desktop Full Experience:
 	~ Unknown Size
 	+ 1920 x 1080 Resolution
 	- 30ms Response Time [ THIS WILL APPEAR TO LAGG, TRUST ME I PLAYED FPS GAMES FOR 8 YEARS ] 
+	- 87% Adobe RGB
 	+ 8192 Pressure Levels [ pen and eraser ]
 	+ Battery Free Stylus
-	- 87% Adobe RGB
 	- Pen Holder on top of tablet
 	- KickStand built in, no angle variation
 	+ Fancy Tilt Recognition
@@ -109,9 +112,9 @@ Studio / Desktop Full Experience:
 	~ 567 x 326 x 30 mm Size
 	+ 1920 x 1080 Resolution
 	~ 14ms Response Time
+	- 77%-82% Adobe RGB
 	+ 8192 Pressure Levels
 	- Rechargeable Stylus [ 2 included ]
-	- 77%-82% Adobe RGB
 	+ 16 Express Keys
 	- No Scroll Wheel = -2 Express Keys
 	+ Pen holder [ Fancy Barrel Edition ]
@@ -160,9 +163,9 @@ Studio / Desktop Full Experience:
 * 437$ ~ XP-Pen Artist Display 15.6 [ https://www.storexppen.com/buy/51.html ]
 	~ 443 x 280 x 12.6 mm Size
 	+ 1920 x 1080 Resolution
+	- 75% Adobe RGB
 	+ 8192 Pressure Levels
 	+ Battery Free Stylus
-	- 75% Adobe RGB
 	+ 6 Express Keys
 	- No Scroll Wheel = -2 Express Keys
 	+ Pen Holder [ Fancy Barrel Edition ]
@@ -195,3 +198,6 @@ REMEMBER FOR STUDIO GRAPHIC MONITORS:
 Also express keys may not be necessary if you have the USB port to carry Macro Keyboard and mouse for scrollwheel, though its more comfortable to have it all in one than carry a lot of accessories.
 Pen Holder is a fancy accessory but some artists tend to break / loose pens so it may help you stay organized.
 I reffer to Tilt as being a fancy feature because I've never used it. Some experienced artists can use it to speed up their work by using heavy wight stylized strokes. But for anything else I've never heard people say its a required feature.
+
+
+HUION LOOSES a lot of customers because for their products you have to pay customs tax and shipping. This is mostly because they don't have warehouses around the world like other companies do.
