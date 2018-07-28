@@ -216,7 +216,7 @@ REMEMBER FOR STUDIO GRAPHIC MONITORS:
 
 * For KickStand with angle variation you can check this [ https://us-shop.artisul.com/shop-all/artisul_lcd/stand-051/ ] or look for tablet kickstands online
 
-* For Macro / ScrollWheel alternative i would check this [ https://www.storexppen.com/buy/36.html ] or something similar, prefferably with a cable in my case
+* For Macro / ScrollWheel alternative i would check this [ https://www.storexppen.com/buy/36.html ] or [ https://us-store.wacom.com/Catalog/Accessories/expresskey-remote#/undefined1 ] or something similar, prefferably with a cable in my case
 
 
 * HUION LOOSES a lot of customers because for their products you have to pay customs tax and shipping. This is mostly because they don't have warehouses around the world like other companies do.
