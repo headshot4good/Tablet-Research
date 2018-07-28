@@ -140,7 +140,7 @@ Studio / Desktop Full Experience: [ 8K Pressure, FHD = 1920*1080 Monitor ]
 	+ +1920 x 1080 Resolution
 	- -25ms Response Time [ kinda laggy ]
 	- -75% Adobe RGB [ kinda bad ]
-	- -2048 Pressule Levels [ pen and eraser ]
+	- -2048 Pressure Levels [ pen and eraser ]
 	+ +Battery Free Stylus
 	+ +4 Express Keys
 	+ +Scroll Wheel
