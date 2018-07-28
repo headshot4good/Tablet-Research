@@ -31,6 +31,8 @@ BUDGET / On the GO: [ 8K Pressure, Battery Free Stylus ]
 	+ +Pen Holder [ Fancy Barrel Edition ]
 	- ~No Fancy Tilt Recognition
 
+	* REVIEW [ https://www.youtube.com/watch?v=ZC3RBqyZ2Bw ]
+
 * 109$ - ~XP-Pen Deco 02 [ https://www.storexppen.com/buy/59.html ]
 	+ +8192 Pressure Levels
 	+ +Battery Free Stylus
@@ -38,6 +40,8 @@ BUDGET / On the GO: [ 8K Pressure, Battery Free Stylus ]
 	+ +Scroll Wheel
 	+ +Pen Holder [ Fancy Barrel Edition ]
 	- ~No Fancy Tilt Recognition
+
+	* REVIEW [ https://www.youtube.com/watch?v=h4gQeX0li9k ]
 
 * 79$  - ~Huion INSPIROY H950P [ https://www.huiontablet.com/all-products/graphic-tablets/huion-h950p.html ]
 	+ +8192 Pressure Levels
@@ -47,6 +51,8 @@ BUDGET / On the GO: [ 8K Pressure, Battery Free Stylus ]
 	+ +Pen Holder
 	+ +Fancy Tilt Recognition
 	- -may be more than 79$ due to shipping costs and tax
+
+	* REVIEW [ https://www.youtube.com/watch?v=eJiazjnwRzE ]
 
 
 
@@ -65,6 +71,8 @@ On the GO Monitors: [ 8K Pressure, Battery Free Stylus, FHD = 1920*1080 Monitor,
  	- -No Pen Holder, Pen bag included
  	+ +KickStand with angle variation
  	- ~No Fancy Tilt Recognition
+
+ 	* REVIEW: [ https://www.youtube.com/watch?v=6WZ2Z7LgBLA ], remember this is the review of the version with 2k pressure, difference is in the pen only
  	
 * 400$ - ~Parblo C13 [ https://www.parblo.com/products/coast13-1 ]
 	- ~380 x 240 x 14 mm / 15 x 9 x  0.6 inch
@@ -77,6 +85,8 @@ On the GO Monitors: [ 8K Pressure, Battery Free Stylus, FHD = 1920*1080 Monitor,
 	- -No Pen Holder, Pen Case included
 	- -No KickStand
 	- ~No Fancy Tilt Recognition
+
+	* REVIEW [ https://www.youtube.com/watch?v=R9ZCDWhaQGU ] 
 	
 * 300$ - ~Huion KAMVAS PRO 13 [ https://www.huiontablet.com/all-products/presale-item/kamvas-pro-13.html ]
 	- ~388 x 219 x 11 mm Size
@@ -91,6 +101,8 @@ On the GO Monitors: [ 8K Pressure, Battery Free Stylus, FHD = 1920*1080 Monitor,
 	- ~No Fancy Tilt Recognition
 	- -$448.88 with Tax included so be wary that you have to pay tax and shipping for Huion products
 
+	* REVIEW: [ ??? ]
+
 * 319$ - ~XP-PEN Artist Display 13.3V2 [ https://www.storexppen.com/buy/artist13_3.html ]
 	- ~390 x 250 x 14 mm
 	+ +1920 x 1080 Resolution
@@ -102,6 +114,8 @@ On the GO Monitors: [ 8K Pressure, Battery Free Stylus, FHD = 1920*1080 Monitor,
 	+ +Pen Holder [ Fancy Barrel Edition ]	
 	- -No KickStand
 	- -No Fancy Tilt Recognition
+
+	* REVIEW [ https://www.youtube.com/watch?v=U-yq9NgxfXg ], this is the old version of the tablet, only the pen is different
 
 
 Studio / Desktop Full Experience: [ 8K Pressure, FHD = 1920*1080 Monitor ]
@@ -118,6 +132,7 @@ Studio / Desktop Full Experience: [ 8K Pressure, FHD = 1920*1080 Monitor ]
 	+ +Pen Holder on top of tablet and for table
 	- -KickStand built in, no angle variation
 	+ +Fancy Tilt Recognition
+	
 	* REVIEW [ https://www.youtube.com/watch?v=OJx0vY-VdN8 ] 
 
 * 599$ - ~XP-PEN Artist Display 22E Pro [ https://www.storexppen.com/buy/61.html ]
@@ -134,6 +149,8 @@ Studio / Desktop Full Experience: [ 8K Pressure, FHD = 1920*1080 Monitor ]
 	+ +KickStand with angle variation
 	- ~No Fancy Tilt Recognition
 
+	* REVIEW [ https://www.youtube.com/watch?v=vrmA-mrl9VE ]
+
 * 519$ - ~XP-Pen Artist Display 22 Pro [ https://www.storexppen.com/buy/60.html ]
 	=== Carefull its a ultra wide screen ratio ===
 	- ~517 x 321 x 30 mm Size
@@ -148,6 +165,8 @@ Studio / Desktop Full Experience: [ 8K Pressure, FHD = 1920*1080 Monitor ]
 	+ +KickStand with angle variation
 	- ~No Fancy Tilt Recognition
 
+	* REVIEW [ https://www.youtube.com/watch?v=vrmA-mrl9VE ] same as the E version, but without the Express keys
+
 * 489$ - ~XP-Pen Artist Display 16 Pro [ https://www.storexppen.com/buy/artist-series-display16pro.html ]
 	- ~405 x 255 x 30 mm Size [ would not fit my bag ]
 	+ +1920 x 1080 Resolution
@@ -161,6 +180,8 @@ Studio / Desktop Full Experience: [ 8K Pressure, FHD = 1920*1080 Monitor ]
 	+ +KickStand with angle variation
 	- ~No Fancy Tilt Recognition
 
+	* REVIEW [ https://www.youtube.com/watch?v=3GTx3AFS1eg ]
+
 * 450$ - ~Artisul D16 [ https://us-shop.artisul.com/shop-all/artisul_lcd/d16/ ]
 	- ~424.2 x 262 x 16.5 mm Size [ would not fit my bag ]
 	+ +1920 x 1080 Resolution
@@ -173,6 +194,8 @@ Studio / Desktop Full Experience: [ 8K Pressure, FHD = 1920*1080 Monitor ]
 	- -No Pen Holder
 	+ +KickStand with angle variation
 	- ~No Fancy Tilt Recognition
+
+	* REVIEW [ https://www.youtube.com/watch?v=MhOw2GHBhDM ]
 	
 * 437$ - ~XP-Pen Artist Display 15.6 [ https://www.storexppen.com/buy/51.html ]
 	- ~443 x 280 x 12.6 mm Size
@@ -185,6 +208,8 @@ Studio / Desktop Full Experience: [ 8K Pressure, FHD = 1920*1080 Monitor ]
 	- -No Scroll Wheel = -2 Express Keys
 	+ +Pen Holder
 	- ~No Fancy Tilt Recognition
+
+	* REVIEW [ https://www.youtube.com/watch?v=6NRpqPxX3Rk ]
 
 
 
@@ -212,7 +237,7 @@ REMEMBER FOR STUDIO GRAPHIC MONITORS:
 
 * Also express keys may not be necessary if you have the USB port and are willing to carry Macro Keyboard and mouse for scrollwheel, though its more comfortable to have it all in one than carry a lot of accessories.
 * Pen Holder is a fancy accessory but some artists tend to break / loose pens so it may help you stay organized.
-* I reffer to Tilt as being a fancy feature because I've never used it. Some experienced artists can use it to speed up their work by using heavy weight stylized strokes. But for anything else I've never heard people say its a required feature.
+* I reffer to Tilt as being a fancy feature because I've never used it. Some experienced artists can use it to speed up their work by using heavy weight stylized strokes. But for anything else I've never heard people say its a required feature. Also tilt is fancy for me because by construction pens are unable to work if tilted more than 30 degrees due to the way their tip is designed to retract inside the pen.
 
 * For KickStand with angle variation you can check this [ https://us-shop.artisul.com/shop-all/artisul_lcd/stand-051/ ] or look for tablet kickstands online
 
