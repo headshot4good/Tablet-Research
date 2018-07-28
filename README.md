@@ -113,9 +113,12 @@ Studio / Desktop Full Experience: [ 8K Pressure, FHD = 1920*1080 Monitor, 75% Ad
 	- -87% Adobe RGB
 	+ +8192 Pressure Levels [ pen and eraser ]
 	+ +Battery Free Stylus
-	- -Pen Holder on top of tablet
+	- No Express Keys
+	- No Scroll Wheel
+	+ +Pen Holder on top of tablet and for table
 	- -KickStand built in, no angle variation
 	+ +Fancy Tilt Recognition
+	REVIEW [ https://www.youtube.com/watch?v=OJx0vY-VdN8 ] 
 
 * 599$ - ~XP-PEN Artist Display 22E Pro [ https://www.storexppen.com/buy/61.html ]
 	=== Carefull its a ultra wide screen ratio ===
