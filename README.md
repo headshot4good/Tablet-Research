@@ -107,7 +107,7 @@ Studio / Desktop Full Experience:
 	+ Fancy Tilt Recognition
 
 * 599$ ~ XP-PEN Artist Display 22E Pro [ https://www.storexppen.com/buy/61.html ]
-	=== Carefull its a ultra wide screen ratio, has no express keys ===
+	=== Carefull its a ultra wide screen ratio ===
 	~ 567 x 326 x 30 mm Size
 	+ 1920 x 1080 Resolution
 	~ 14ms Response Time
@@ -121,7 +121,7 @@ Studio / Desktop Full Experience:
 	~ No Fancy Tilt Recognition
 
 * 519$ ~ XP-Pen Artist Display 22 Pro [ https://www.storexppen.com/buy/60.html ]
-	=== Carefull its a ultra wide screen ratio, has no express keys ===
+	=== Carefull its a ultra wide screen ratio ===
 	~ 517 x 321 x 30 mm Size
 	+ 1920 x 1080 Resolution
 	+ 14ms Response Time
