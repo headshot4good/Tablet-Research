@@ -91,6 +91,18 @@ On the GO Monitors: [ 8K Pressure, Battery Free Stylus, FHD = 1920*1080 Monitor,
 	- ~No Fancy Tilt Recognition
 	- -$448.88 with Tax included so be wary that you have to pay tax and shipping for Huion products
 
+* 319$ - ~XP-PEN Artist Display 13.3V2 [ https://www.storexppen.com/buy/artist13_3.html ]
+	- ~390 x 250 x 14 mm
+	+ +1920 x 1080 Resolution
+	- -? Unknown Response Time
+	- -75% Adobe RGB
+	+ +Battery free stylus
+	+ +6 Express Keys
+	- -No Scroll wheel = -2 Express Keys
+	+ +Pen Holder [ Fancy Barrel Edition ]	
+	- -No KickStand
+	- -No Fancy Tilt Recognition
+
 
 Studio / Desktop Full Experience: [ 8K Pressure, FHD = 1920*1080 Monitor, 75% Adobe RGB ]
 ---------------------------------
@@ -156,7 +168,7 @@ Studio / Desktop Full Experience: [ 8K Pressure, FHD = 1920*1080 Monitor, 75% Ad
 	+ +7 Express Keys
 	+ +Scroll Wheel
 	- -No Pen Holder
-	+ +KickStand Included
+	+ +KickStand with angle variation
 	- ~No Fancy Tilt Recognition
 	
 * 437$ - ~XP-Pen Artist Display 15.6 [ https://www.storexppen.com/buy/51.html ]
@@ -198,6 +210,8 @@ REMEMBER FOR STUDIO GRAPHIC MONITORS:
 * Also express keys may not be necessary if you have the USB port to carry Macro Keyboard and mouse for scrollwheel, though its more comfortable to have it all in one than carry a lot of accessories.
 * Pen Holder is a fancy accessory but some artists tend to break / loose pens so it may help you stay organized.
 * I reffer to Tilt as being a fancy feature because I've never used it. Some experienced artists can use it to speed up their work by using heavy wight stylized strokes. But for anything else I've never heard people say its a required feature.
+
+* For KickStand with angle variation you can check this [ https://us-shop.artisul.com/shop-all/artisul_lcd/stand-051/ ] or look for tablet kickstands online
 
 
 * HUION LOOSES a lot of customers because for their products you have to pay customs tax and shipping. This is mostly because they don't have warehouses around the world like other companies do.
