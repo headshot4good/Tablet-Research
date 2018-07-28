@@ -257,3 +257,9 @@ If you have the cash to burn then i'd go for
 	+ add 16 GB RAM [ https://www.youtube.com/watch?v=RISGYh5AjB4 ]
 	++ will have to buy 2 X 16 GB RAM chips, as by default it uses 2 X 8GB RAM chips
 * Artisul D16 [ hate: Pen Bag ]
+
+
+
+FOR MORE CHEAP ALTERNATIVES FOR A STUDIO
+----------------------------------------
+https://www.youtube.com/watch?v=-KIYjcncFD0
