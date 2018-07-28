@@ -124,9 +124,9 @@ Studio / Desktop Full Experience: [ 8K Pressure, FHD = 1920*1080 Monitor, 75% Ad
 	- ~517 x 321 x 30 mm Size
 	+ +1920 x 1080 Resolution
 	+ +14ms Response Time
+	- -77%-82% Adobe RGB
 	+ +8192 Pressure Levels
 	- -Rechargeable Stylus [ 2 included ]
-	- -77%-82% Adobe RGB
 	- -No Express Keys
 	- -No Scroll Wheel
 	+ +Pen holder [ Fancy Barrel Edition ]
@@ -137,9 +137,9 @@ Studio / Desktop Full Experience: [ 8K Pressure, FHD = 1920*1080 Monitor, 75% Ad
 	- ~405 x 255 x 30 mm Size [ would not fit my bag ]
 	+ +1920 x 1080 Resolution
 	+ +14ms Response Time
+	+ +92% Adobe RGB
 	+ +8192 Pressure Levels
 	- -Rechargeable Stylus [ 2 included ]
-	+ +92% Adobe RGB
 	+ +8 Express Keys
 	- -No Scroll Wheel = -2 Express Keys
 	+ +Pen Holder [ Fancy Barrel Edition ]
@@ -148,12 +148,13 @@ Studio / Desktop Full Experience: [ 8K Pressure, FHD = 1920*1080 Monitor, 75% Ad
 
 * 450$ - ~Artisul D16 [ https://us-shop.artisul.com/shop-all/artisul_lcd/d16/ ]
 	- ~424.2 x 262 x 16.5 mm Size
-	+ +8192 Pressure Levels
+	+ +1920 x 1080 Resolution
 	- ~19ms Response Time
+	+ +94% Adobe RGB
+	+ +8192 Pressure Levels
 	+ +Battery Free Stylus
 	+ +7 Express Keys
 	+ +Scroll Wheel
-	+ +94% Adobe RGB
 	- -No Pen Holder
 	+ +KickStand Included
 	- ~No Fancy Tilt Recognition
@@ -161,12 +162,13 @@ Studio / Desktop Full Experience: [ 8K Pressure, FHD = 1920*1080 Monitor, 75% Ad
 * 437$ - ~XP-Pen Artist Display 15.6 [ https://www.storexppen.com/buy/51.html ]
 	- ~443 x 280 x 12.6 mm Size
 	+ +1920 x 1080 Resolution
+	- ? unknown Response Time
 	- -75% Adobe RGB
 	+ +8192 Pressure Levels
 	+ +Battery Free Stylus
 	+ +6 Express Keys
 	- -No Scroll Wheel = -2 Express Keys
-	+ +Pen Holder [ Fancy Barrel Edition ]
+	+ +Pen Holder
 	- ~No Fancy Tilt Recognition
 
 
