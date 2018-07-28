@@ -173,8 +173,8 @@ Studio / Desktop Full Experience:
 
 
 In my books the for a studio / workspace I'd check the following [ > 90% Adobe RGB, so colors will be accurate ]
-	* XP-Pen Artist Display 16 Pro
-	* Artisul D16
+	+ XP-Pen Artist Display 16 Pro
+	+ Artisul D16
 
 An Important note for Graphic Monitors is that you will have to see reviews about them and check Parallax and Jitter reviews.
 All Graphic Monitors have Parallax and Jitter, but try to find the one that has the least.
