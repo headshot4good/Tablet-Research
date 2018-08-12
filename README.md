@@ -79,6 +79,7 @@ BUDGET / On the GO: [ 8K Pressure, Battery Free Stylus ]
   + +Application Specific Shortcuts, very handy if you use multiple drawing apps with different configurations for the Express Keys [ if you don't use express keys then its useless ]
 
   * REVIEW [ https://www.youtube.com/watch?v=Btvi6eUeDRI ]
+  * NIBS [ https://www.youtube.com/watch?v=V6p_UTw1tHg ]
   * FEATURES AND TRAINING [ https://www.youtube.com/watch?v=-a2OJYLse5k ]
 
 
