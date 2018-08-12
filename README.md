@@ -67,7 +67,7 @@ BUDGET / On the GO: [ 8K Pressure, Battery Free Stylus ]
 	* REVIEW [ https://www.youtube.com/watch?v=eJiazjnwRzE ]
 
 
-* 250$ - ~Wacom Intuos Pro Small [  ]
+* 225$ - ~Wacom Intuos Pro Small [ https://www.amazon.de/Wacom-Intuos-Small-Grafik-Tablett-Gestaltungsm%C3%B6glichkeiten/dp/B00ESW2OVO/ref=sr_1_1?ie=UTF8&qid=1534089084&sr=8-1&keywords=intuos+pro+tablet ]
   - -2048 Pressure Levels [ pen and eraser ]
   - -200 RPS, so most other tablets have now between 233-266 RPS, this basically is the number of points recorded in a second, the higher the better
   + +Battery Free Stylus
