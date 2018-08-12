@@ -67,6 +67,20 @@ BUDGET / On the GO: [ 8K Pressure, Battery Free Stylus ]
 	* REVIEW [ https://www.youtube.com/watch?v=eJiazjnwRzE ]
 
 
+* 250$ - ~Wacom Intuos Pro Small [  ]
+  - -2048 Pressure Levels [ pen and eraser ]
+  - -200 RPS, so most other tablets have now between 233-266 RPS, this basically is the number of points recorded in a second, the higher the better
+  + +Battery Free Stylus
+  + +6 Express Keys
+  + +ScrollWheel [ with 4 modes, so you can have brush size and rotate quickly accessible ]
+  + +Pen Holder
+  + +Fancy Tilt Recognition
+  + +GESTURE SUPPORT [ features a functional touchpad with gestures, basically I am interested in pan, zoom and ROTATE ]
+  + +Application Specific Shortcuts, very handy if you use multiple drawing apps with different configurations for the Express Keys [ if you don't use express keys then its useless ]
+
+  * REVIEW [ https://www.youtube.com/watch?v=Btvi6eUeDRI ]
+  * FEATURES AND TRAINING [ https://www.youtube.com/watch?v=-a2OJYLse5k ]
+
 
 On the GO Monitors: [ 8K Pressure, Battery Free Stylus, FHD = 1920*1080 Monitor, 75% Adobe RGB ]
 -------------------
@@ -292,3 +306,48 @@ If you have the cash to burn then i'd go for
 FOR MORE CHEAP ALTERNATIVES FOR A STUDIO
 ----------------------------------------
 * https://www.youtube.com/watch?v=-KIYjcncFD0
+
+
+TABLET COMPANIES:
+-----------------
+
+# Dedicated for drawing tablets
+-------------------------------
+* Wacom - https://www.wacom.com/en-us
+* XP-PEN - https://www.xp-pen.com/
+* Huion - https://www.huiontablet.com/
+
+* Artisul - https://artisul.com/
+* Parblo - https://www.parblo.com/
+
+* UC Logic - https://www.uc-logic.com/
+* Gaomon - http://www.gaomon.net/
+* Ugee - http://ugee.net/?l=en
+* Monoprice - https://www.monoprice.com/category?c_id=108&cp_id=10841
+* YiYnova - http://www.yiynova.eu/#
+* Turcom - https://turcomusa.com/drawing-tablets.html
+
+# All in one kind of Solution
+-----------------------------
+I won't list these companies sites as you would anyway get a laptop from them in order to use a graphic tablet / graphic monitor.
+You should keep in mind that currently there is no tablet with digitizer which has upgradeable hardware, which you predominantely want to upgrade being the RAM capacitiy.
+Also their decision to cheap out on hardware results in products that do not fit the needs of a professional artist. 
+
+[ LESS RAM == LESS CANVAS SIZE, also LESS LAYERS ]
+[ LESS HDD == LESS BACKUPS AVAILABLE ]
+[ LESS CPU cores == LESS responsiveness ]
+[ LESS CPU frequency == LESS responsiveness ]
+
+[ eMMC == CRAPPY SPEEDS when opening large files, and when copying files over from the device, less than 13MB/s read/write ]
+[ HDD == prone to mechanical failure, and recovery of data is expensive from a broken HDD because it involves precise disassembly and a vacuum room, around 50MB/s read/write ]
+[ SSD == fast access speeds, recovery may be impossible, limited number of writes [ 10000 cycles == around 3 years of safe usage ], around 500MB/s read, 250MB/s write ]
+
+* Acer - 
+* Asus - 
+* Dell - 
+* HP - 
+* Lenovo - 
+* Apple - 
+* Microsoft - 
+* Samsung - 
+* Huawei - 
